@@ -87,22 +87,15 @@ KPSS Habit Tracker
   - All data stored locally in SQLite database
 
   ---
-  Tech Stack
+## Tech Stack
 
-  ┌───────────────────────┬─────────────────────────┐
-  │         Layer         │       Technology        │
-  ├───────────────────────┼─────────────────────────┤
-  │ Application framework │ Electron 33             │
-  ├───────────────────────┼─────────────────────────┤
-  │ UI                    │ React 18, Recharts      │
-  ├───────────────────────┼─────────────────────────┤
-  │ Database              │ SQLite (better-sqlite3) │
-  ├───────────────────────┼─────────────────────────┤
-  │ Build                 │ Webpack 5, Babel 7      │
-  ├───────────────────────┼─────────────────────────┤
-  │ Distribution          │ Electron Builder / NSIS │
-  └───────────────────────┴─────────────────────────┘
-
+  | Layer | Technology |
+  |---|---|
+  | Application framework | Electron 33 |
+  | UI | React 18, Recharts |
+  | Database | SQLite (better-sqlite3) |
+  | Build | Webpack 5, Babel 7 |
+  | Distribution | Electron Builder / NSIS |
   ---
   Installation
 
