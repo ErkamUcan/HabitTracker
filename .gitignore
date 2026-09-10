@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/
+.claude/
+electron-out.txt
+electron-err.txt
+*.log
