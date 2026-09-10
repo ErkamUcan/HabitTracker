@@ -108,3 +108,8 @@ KPSS Habit Tracker
   npm start        # start in development mode
   npm run build    # production build
   npm run dist     # create installer package
+
+  ## Download
+
+  [Download v1.0.0]
+  https://drive.google.com/file/d/1bJ08nL1-jVKek1fOC4td-9fJeyjUyHNM/view?usp=sharing
